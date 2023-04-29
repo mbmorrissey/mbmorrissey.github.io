@@ -19,8 +19,8 @@
           },
           "url": "https://mbmorrissey.github.io/boards/cadalogger-0.1.zip",
           "archiveFileName": "cadalogger-0.1.zip",
-          "checksum": "SHA-256:e054d52503bc3b56331a824a9e6b55740951491b3dcda129306fef20bebfdd4e",
-          "size": "6133",
+          "checksum": "SHA-256:94dc6f09a93f2acc125306b04b5454087655586924ae63e3c2dd8c6dcaab7f3f",
+          "size": "6117",
           "boards": [{ "name": "cadalogger" }],
           "toolsDependencies": []
         }
