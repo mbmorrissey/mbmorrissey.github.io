@@ -12,15 +12,15 @@
         {
           "name": "cadalogger",
           "architecture": "megaavr",
-          "version": "0.0.5",
+          "version": "0.0.6",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/mbmorrissey/cadalogger"
           },
-          "url": "https://mbmorrissey.github.io/boards/cadalogger-0.0.5.zip",
-          "archiveFileName": "cadalogger-0.0.5.zip",
-          "checksum": "SHA-256:b3a319c5929c84ee3cfff77ba8fa2de1ef70776a3e146a259f9626928ef00048",
-          "size": "5257",
+          "url": "https://mbmorrissey.github.io/boards/cadalogger-0.0.6.zip",
+          "archiveFileName": "cadalogger-0.0.6.zip",
+          "checksum": "SHA-256:8053e4cf6e155058b31ce33342954badcf0925e101bb8e815ccf476c63ea6204",
+          "size": "5557",
           "boards": [{ "name": "cadalogger" }],
           "toolsDependencies": []
         }
