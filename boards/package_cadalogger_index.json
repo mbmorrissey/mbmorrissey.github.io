@@ -17,8 +17,8 @@
           "help": {
             "online": "https://github.com/mbmorrissey/cadalogger"
           },
-          "url": "https://mbmorrissey.github.io/boards/cadalogger-0.1.zip",
-          "archiveFileName": "cadalogger-0.1.zip",
+          "url": "https://mbmorrissey.github.io/boards/cadalogger-0.0.1.zip",
+          "archiveFileName": "cadalogger-0.0.1.zip",
           "checksum": "SHA-256:3defd3803b0a49ba4c0a9d2738803f156b76ce70130d4bd6041ce146e7db0a09",
           "size": "5040",
           "boards": [{ "name": "cadalogger" }],
