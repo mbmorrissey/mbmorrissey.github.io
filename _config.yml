@@ -83,7 +83,7 @@ author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "https://www.google.com/maps/place/Dyers+Brae,+Greenside+Pl,+St+Andrews+KY16+9TH/@56.336828,-2.795633,17z/data=!3m1!4b1!4m6!3m5!1s0x4886579101f3193f:0x34ed11689df17a64!8m2!3d56.3368251!4d-2.7930581!16s%2Fg%2F1xpwjbqv?entry=ttu"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
