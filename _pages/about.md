@@ -10,6 +10,12 @@ redirect_from:
 
 I'm a general quantitative biologist interested mostly in evolution, fish and wildlife management, statistics and electronics geekery.
 
+My research group is based at the University of St Andrews where my day job is supposedly studying the generation-to-generation mechanics of natural selection and adaptive evolution in natural populations.  Research distractions from this are general statistics, fisheries and wildlife biology, and electronics.  
+
+I teach various parts of our curriculum in general quantiative skills, statistical modelling, evolution and ecology, from first year through to MSc and PhD.  
+
+I am deputy director of the Centre for Biological Diversity in the School of Biology and the Director of Postgraduate (Research) Recruitment (it's not glamorous, almost everyone is dorector of something).
+
 
 How to edit your site's GitHub repository
 ------
