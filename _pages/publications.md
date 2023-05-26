@@ -22,10 +22,10 @@ Here I list a few of my favourites.
 -->
 
 
-# Measuring selection
+## Measuring selection
 
 
-# Statistical genetics of developmentally-entangled traits
+## Statistical genetics of developmentally-entangled traits
 
 
-# Meta-analysis
+## Meta-analysis
