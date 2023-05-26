@@ -24,7 +24,9 @@ Here I list a few of my favourites.
 
 ## Measuring selection
 
+- environmentally-induced trait fitness covariance creates patterns that are widely interpreted as natural selection, but do not contribute in any way to evolution of heritabile traits.  To date, authors treating the subject (including yours truely) have tended to suggest recourse to very different quantiatibe genetic approaches to get around the problem.  But what if we did what any other biologists would do in a situation involving a confounding variable: measure the confounder and account for it in our statistical models? (!)  It turns out that this approach -- including environmntal variables as well as traits in otheriwse very standard regression analyses of natural selection
 
+- it turns out that it is possible to derive selection gradients from the parameters of models with a log-linear form.  This is quite handy becuase it links the estimation of selection graidents in the formal evolutionary quantitative genetic sense to a range of statistical modelling approaches that may be very well suited for fitness data
 
 ## Statistical genetics of developmentally-entangled traits
 
@@ -32,6 +34,13 @@ M.B. Morrissey. 2014. Selection and evolution of causally covarying traits. [Evo
 
 - How to incorporate effects of traits on one another into inferences of selection, genetics and per-generation evolutionary change.
 
-M.B Morrissey 2015
+M.B Morrissey. 2015. Evolutionary quantiative genetics of non-linear developmental systems. [Evolution 69: 2050-2066](https://www.jstor.org/stable/24704722)
+
+- Extends Morrissey (2014) to accommodate non-linear relationships among triats, leads to new hypotheses about the surprising lack of stabilising selection we tend to see in selection gradient estimates.
 
 ## Meta-analysis
+
+- like the title says: after we filter out the tendency for statistical uncertainty to make esimates seem like they jump around more than they do, it turns out that directional selection is very consistent through time
+
+- often, we are not interested in the exact quantities that people report in their literaure, but our meta-analyses may focus on derived quantities, such as magnitudes (absolute values of what people report).  This situation requires some special considerations beyond those of standard meta-analysis.
+
