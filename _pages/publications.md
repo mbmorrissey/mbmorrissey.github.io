@@ -9,7 +9,7 @@ See [google scholar](https://scholar.google.co.uk/citations?user=AKCYteAAAAAJ&hl
 
 Here I list a few of my favourites.
 
-<!--
+<!---
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
