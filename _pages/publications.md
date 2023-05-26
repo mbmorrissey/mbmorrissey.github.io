@@ -7,7 +7,8 @@ author_profile: true
 
 See [google scholar](https://scholar.google.co.uk/citations?user=AKCYteAAAAAJ&hl=en) for my full pulications list.
 
-Here I list a few of my favourites
+Here I list a few of my favourites.
+
 <!--
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
