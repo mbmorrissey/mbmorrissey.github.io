@@ -46,7 +46,7 @@ M.B Morrissey. 2015. Evolutionary quantiative genetics of non-linear development
 
 M.B. Morrissey and J.D. Hadfield. 2012. Directional selection in temporally replicated studies is remarkably consistent. [Evolution 66: 435-442](https://www.jstor.org/stable/41460077)
 
-- like the title says: after we filter out the tendency for statistical uncertainty to make esimates seem like they jump around more than they do, it turns out that directional selection is very consistent through time
+- like the title says: [Jarrod Hadfield](https://jarrod.bio.ed.ac.uk/jarrod.html) and I argue that after we filter out the tendency for statistical uncertainty to make esimates seem like they jump around more than they do, it turns out that directional selection is very consistent through time
 
 M.B Morrissey. 2016. Meta-analysis of magnitudes, differences and variation in evolutionary parameters [Journal of Evolutionary Biology 29: 1882-1904.](https://onlinelibrary.wiley.com/doi/10.1111/jeb.12950)
 - often, we are not interested in the exact quantities that people report in their literaure, but our meta-analyses may focus on derived quantities, such as magnitudes (absolute values of what people report).  This situation requires some special considerations beyond those of standard meta-analysis.
