@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 
-...contact details...
+(email)[mailto:michael.morrissey@st-andrews.ac.uk]
