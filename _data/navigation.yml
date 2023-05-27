@@ -11,6 +11,9 @@ main:
     
   - title: "Group"
     url: /group/
+    
+  - title: "Contact"
+    url: /contact/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
