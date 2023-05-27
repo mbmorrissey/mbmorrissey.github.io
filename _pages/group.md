@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Group"
+title: "Research Group Members"
 permalink: /group/
 author_profile: true
 ---
@@ -11,5 +11,7 @@ author_profile: true
 ## Rebecca Nagel
 
 ## Vivienne Litzke
+
+Personal site (here)[https://vlitzke.github.io/]
 
 ## Finn Cowell
