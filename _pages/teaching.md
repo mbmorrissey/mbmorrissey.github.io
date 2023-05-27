@@ -28,7 +28,7 @@ author_profile: true
 ### Using R
 <img src="/images/Using_R_cover_small_file.jpg" align="left" width="200px"/>
 Most modern statistics books for biologists aim to teach students to use R and become competent at data analysis in 180 or so pages.  In my experience, this leaves students able to run through examples, but puts them in a very frustrating situation when they try to move on to their own analyses.  Basically, it is very hard to simultaneously propel students along both their R learning curves and their statistical modelling learning curves (there are not the same thing!!).  This book supports instructors and students who would like to invest some time getting to know R first.  Once we get a little way along our R learning curve, it can become a tool for learning about statistics.
-<br/><br/>
+<p></p>
 
 ### Elementary Statistical Modelling
 
