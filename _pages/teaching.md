@@ -36,6 +36,6 @@ How to map biological questions onto linear modeling formulations.  Assuming a b
 
 ### Example data files and book availability
 
-The main data files for all examples in "Using R" and "Elementary Statistical Modelling" are unicorns.csv and unicornIslandDensity.csv.
+The main data files for all examples in "Using R" and "Elementary Statistical Modelling" are [unicorns.csv](/files/unicorns.csv) and [unicornIslandDensity.csv](/files/unicornIslandDensity.csv).
 
 Instructors interested in the teaching philosophy in "Using R" and "Elementary Statistical Modelling" should [contact me](https://mbmorrissey.github.io/contact/) for copies.  If you would like to use the books in your teaching, I can have batches printed for modest cost for you to distribute to your students.
