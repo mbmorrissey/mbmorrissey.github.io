@@ -14,20 +14,22 @@ author_profile: true
 
 ## Evolution
 
-- BL3307: genetic basis of variation and evolution of continuous traits; </li>
-- BL4288 "Major Review Paper in Evoltuionary Biology" (Module Organiser): Basically a big exercise in writing feedback.  With support from class sessions and 1:1 meetings with staff, students prepare a review article including submission of an initial draft, responding to peer reviews, and re-submitting a final submission.  We've had our first student article [published](https://onlinelibrary.wiley.com/doi/full/10.1111/jeb.14112) - Congratulations Finn.</li>
+- BL3307: genetic basis of variation and evolution of continuous traits
+- BL4288 "Major Review Paper in Evoltuionary Biology" (Module Organiser): Basically a big exercise in writing feedback.  With support from class sessions and 1:1 meetings with staff, students prepare a review article including submission of an initial draft, responding to peer reviews, and re-submitting a final submission.  We've had our first student article [published](https://onlinelibrary.wiley.com/doi/full/10.1111/jeb.14112) - Congratulations Finn!
 
 
 ## Ecology
 
-- New module for 2023/24 in Quantitative Ecology (Module Organiser): students tackle a range of topics in ecology through quantitative 'work packages' engaging deeply with classical theory and empiricla analyses of contemporary data.</li>
-- BL5103: structured population models</li>
+- New module for 2023/24 in Quantitative Ecology (Module Organiser): students tackle a range of topics in ecology through quantitative 'work packages' engaging deeply with classical theory and empiricla analyses of contemporary data.
+- BL5103: structured population models
 
 ## Books
 
 <img src="/images/Using_R_cover_small_file.jpg" align="left" width="200px"/>
-some text floating around the image
+Most modern statistics books for biologists aim to teach students to use R and become competent at data analysis in 180 or so pages.  In my experience, this leaves students able to run through examples, but puts them in a very frustrating situation when they try to move on to their own analyses.  Basically, it is very hard to simultaneously propel students along both their R learning curves and their statistical modelling learning curves (there are not the same thing!!).  This book supports instructors and students who would like to invest some time getting to know R first.  Once we get a little way along our R learning curve, it can become a tool for learning about statistics.
 
 
 <img src="/images/ESM_cover_small_file.jpg" align="left" width="200px"/>
-some text floating around the image
+How to map biological questions onto linear modeling formulations.  Assuming a bit of comfort in R, we take questions of relationships between two variables, differences in means among groups, effects of multiple variables, and interactions among variables one chapter at a time.  For its 180 or so pages, it doesn't go as far as most biostats books, but hopefully it sets students up to handle the basics well.  Particular attention is paid to avoiding common interpretive pitfalls and dispelling myths.
+
+The main data files for all examples in "Using R" and "Elementary Statistical Modelling" are unicorns.csv and unicornIslandDensity.csv.
