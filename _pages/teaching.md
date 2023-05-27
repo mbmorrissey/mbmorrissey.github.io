@@ -23,4 +23,4 @@ author_profile: true
 - New module for 2023/24 in Quantitative Ecology (Module Organiser): students tackle a range of topics in ecology through quantitative 'work packages' engaging deeply with classical theory and empiricla analyses of contemporary data.</li>
 - BL5103: structured population models</li>
 
-##Books
+## Books
