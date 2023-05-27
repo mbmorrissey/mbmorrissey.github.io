@@ -12,6 +12,6 @@ author_profile: true
 
 ## Vivienne Litzke
 
-Personal site (here)[https://vlitzke.github.io/]
+Personal site [here](https://vlitzke.github.io/)
 
 ## Finn Cowell
