@@ -7,7 +7,7 @@ author_profile: true
 
 ## Quantitative skills
 
-- BL1102: I am entrusted with introducing all our first-years to data handling and visualisation in R via two weeks of practicals.  This works surprisignly well, in large part because of the School's commitment of a lot of demonstrator support to first year practicals.
+- BL1102: introducing all our first-years to data handling and visualisation in R via two weeks of practicals.  This works surprisignly well, in large part because of the School's commitment of a lot of demonstrator support to first year practicals.
 - BL3320: Generalised models sessions to all Biology third year students
 - BL5115: Introductory R and other parts of the quantiative skills delivered to all of our taught MSc students.
 
