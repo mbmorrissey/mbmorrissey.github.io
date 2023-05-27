@@ -25,11 +25,17 @@ author_profile: true
 
 ## Books
 
+### Using R
 <img src="/images/Using_R_cover_small_file.jpg" align="left" width="200px"/>
 Most modern statistics books for biologists aim to teach students to use R and become competent at data analysis in 180 or so pages.  In my experience, this leaves students able to run through examples, but puts them in a very frustrating situation when they try to move on to their own analyses.  Basically, it is very hard to simultaneously propel students along both their R learning curves and their statistical modelling learning curves (there are not the same thing!!).  This book supports instructors and students who would like to invest some time getting to know R first.  Once we get a little way along our R learning curve, it can become a tool for learning about statistics.
 
+### Elementary Statistical Modelling
 
 <img src="/images/ESM_cover_small_file.jpg" align="left" width="200px"/>
 How to map biological questions onto linear modeling formulations.  Assuming a bit of comfort in R, we take questions of relationships between two variables, differences in means among groups, effects of multiple variables, and interactions among variables one chapter at a time.  For its 180 or so pages, it doesn't go as far as most biostats books, but hopefully it sets students up to handle the basics well.  Particular attention is paid to avoiding common interpretive pitfalls and dispelling myths.
 
+### Example data files and book availability
+
 The main data files for all examples in "Using R" and "Elementary Statistical Modelling" are unicorns.csv and unicornIslandDensity.csv.
+
+Instructors interested in the teaching philosophy in "Using R" and "Elementary Statistical Modelling" should [contact me](https://mbmorrissey.github.io/contact/) for copies.  If you would like to use the books in your teaching, I can have batches printed for modest cost for you to distribute to your students.
