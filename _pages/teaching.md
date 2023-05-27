@@ -24,3 +24,10 @@ author_profile: true
 - BL5103: structured population models</li>
 
 ## Books
+
+<img src="/images/Using_R_cover_small_file.jpg" align="left" width="200px"/>
+some text floating around the image
+
+
+<img src="/images/ESM_cover_small_file.jpg" align="left" width="200px"/>
+some text floating around the image
