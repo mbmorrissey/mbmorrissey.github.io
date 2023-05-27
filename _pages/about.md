@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Michael Morrissey personal website"
+title: "Michael Morrissey research website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,3 +16,4 @@ I teach various parts of our curriculum in general quantiative skills, statistic
 
 I am Deputy Director of the [Centre for Biological Diversity](https://biology.st-andrews.ac.uk/biodiversity/) in the [School of Biology](https://www.st-andrews.ac.uk/biology/) and the Director of Postgraduate (Research) Recruitment (it's not glamorous, almost everyone is director of something around here).
 
+Prospective students and other researchers are welcome to contact me to discuss projects.
