@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects"
+title: "Study systems and research themes"
 permalink: /projects/
 author_profile: true
 ---
