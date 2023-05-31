@@ -16,7 +16,7 @@ Soay sheep are a stone age lineage of sheep that have lived unmanaged on the isl
 ## ELA lake trout
 
 
-<img align="left" width="240" height="180" src="/files/ela_clips.gif">
+<img align="left" width="260" height="170" src="/files/ela_clips.gif">
 [IISD Experimental Lakes Area](https://www.iisd.org/ela/)
 
 ## Measurement of natural selection
