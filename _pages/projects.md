@@ -10,6 +10,8 @@ Here are a few ongoing projects and general areas of research interest:
 
 ## Soay sheep
 
+![](https://github.com/mbmorrissey/mbmorrissey.github.io/blob/b3e0aa33fd45ae41d391857a0655392b8542a113/files/Soay_ruminating.gif)
+
 Soay sheep are a stone age lineage of sheep that have lived unmanaged on the island of Soay in the St Kilda archipelago since pre-historic times.  When the last human inhabitants of Hirta, the main island in the St Kilda archipelago, left in the 1930s, Soay sheep were moved from Soay to Hirta, where they have continued to live unmanaged.  The Soay sheep population of Village Bay, on Hirta, has been the subject of [a long-term individual-based study](https://soaysheep.bio.ed.ac.uk/) since 1985.  Comprehensive pedigree data and >10,000 complete life histories, combined with extensive trait and environmental data supports a range of studies, including my interests in studying the generation-to-generation mechanics of natural selection in the wild.
 
 ## ELA lake trout
