@@ -12,7 +12,7 @@ Here are a few ongoing projects and general areas of research interest:
 
 [Soay sheep project](https://soaysheep.bio.ed.ac.uk/)
 
-##ELA lake trout
+## ELA lake trout
 
 [IISD Experimental Lakes Area](https://www.iisd.org/ela/)
 
