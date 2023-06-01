@@ -23,7 +23,7 @@ With [Marco Festa-Bianchet](https://qcbs.ca/member?profile=32) and others in Que
 
 ## Measurement of natural selection
 
-<img align="left" width="260" height="170" src="/files/example_theory_papers.gif">
+<img align="right" width="260" height="170" src="/files/example_theory_papers.gif">
 
 If I have a coherent research theme, it is methods for quantifying natural selection.  Here are a few key outputs from this area (see also publications):
 - how to calculate [selection gradients from arbitrary functions](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.12077)
