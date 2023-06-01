@@ -5,9 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
+Here are the main modules to which I contribute, and a summary of the materials I deliver:
+
 ## Quantitative skills
 
-- BL1102: introducing all our first-years to data handling and visualisation in R via two weeks of practicals.  This works surprisignly well, in large part because of the School's commitment of a lot of demonstrator support to first year practicals.
+- BL1102: introducing all our first-years to data handling and visualisation in R via two weeks of practicals.  
 - BL3320: Generalised models sessions to all Biology third year students
 - BL5115: Introductory R and other parts of the quantiative skills delivered to all of our taught MSc students.
 
@@ -22,6 +24,11 @@ author_profile: true
 
 - New module for 2023/24 in Quantitative Ecology (Module Organiser): students tackle a range of topics in ecology through quantitative 'work packages' engaging deeply with classical theory and empiricla analyses of contemporary data.
 - BL5103: structured population models
+
+## External teaching
+
+- Training sessions for the IAPETUSII DTP in foundational statistics and meta-analysis
+- Occasional international courses in statistical genetics (e.g., [this](https://www3.stat.sinica.edu.tw/sisg2015/index.html) and [this](https://jvanderw.une.edu.au/aabc_materials2020.htm))
 
 ## Books
 
