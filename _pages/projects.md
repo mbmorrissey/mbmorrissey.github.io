@@ -34,4 +34,4 @@ If I have a coherent research theme, it is theory and methods methods for quanti
 
 ## Data logging
 
-...
+Products like Arduino and Raspberry Pi make all sorts of electronics easy to use.  They allow us to relatively easily hook up all kinds of high quality sensors (commercially available from, for e.g., ...), and write data to an SD card.  However, there are major challenges to moving custom logger prototypes from the bench (and near-by mains power) to the useful logger deployments in the field.
