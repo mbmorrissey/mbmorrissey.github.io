@@ -16,7 +16,7 @@ Soay sheep are a stone age lineage of sheep that have lived unmanaged on the isl
 ## Anthropogenic selection, ELA lake trout and bighorn sheep
 
 
-<img align="left" width="260" height="170" src="/files/ela_clips.gif">
+<img align="left" width="260" height="170" src="/files/ela_clips.gif" title="original video by J Phipps and A Wallace">
 The [IISD Experimental Lakes Area](https://www.iisd.org/ela/) is a wonderful outdoor laboratory for whole-lake experiments.  With [Dak de Kerckhove](https://eeb.utoronto.ca/profile/de-kerckhove-dak/) and others from the [Ontario Ministry of Natural Resources and Forestry](https://www.ontario.ca/page/aquatic-research) we are conducting long-term experiments on the evolutionary consequences of selective harvest.
 
 With [Marco Festa-Bianchet](https://qcbs.ca/member?profile=32) and others in Quebec, Ontario and Alberta, similar work is important in bighorn sheep.  The evolutionary principles are established, but somehow whether they apply to selective trophy hunting is someting that various factions in wildlife management will go to great lengths to deny!
