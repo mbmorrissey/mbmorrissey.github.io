@@ -34,4 +34,11 @@ If I have a coherent research theme, it is theory and methods methods for quanti
 
 ## Data logging
 
-Products like Arduino and Raspberry Pi make all sorts of electronics easy to use.  They allow us to relatively easily hook up all kinds of high quality sensors (commercially available from, for e.g., ...), and write data to an SD card.  However, there are major challenges to moving custom logger prototypes from the bench (and near-by mains power) to the useful logger deployments in the field.
+Products like [Arduino](https://www.arduino.cc/) and [Raspberry Pi](https://www.raspberrypi.org/) make all sorts of electronics easy to use.  They allow us to relatively easily hook up all kinds of high quality sensors (commercially available from, for e.g., [here](https://www.adafruit.com/), [here](https://www.dfrobot.com/) and [here](https://www.sparkfun.com/)), and write data to an SD card.  However, there are major challenges to moving custom logger prototypes from the bench (and near-by mains power) to the useful logger deployments in the field.
+
+We are developing an arduino-compatible to help field scientists fully realise this recent democratisation of electronics.  In particular, we
+- optimise for very low sleeping power consumption
+- include high quality temperature-compensated real time clocks for time-stamping data
+- include a SD card holder and associated circuitry to minimise its power use
+
+The resulting boards are arduino-like in that they can be programmed using the same development environment, can handle digital and analog inputs, and communicate with peripherals (e.g., sensors) using the same set of serial protocols as can the classic Arduino.  However, depending on sensors used and duty cycle, the boards can last hundreds to thousands of times longer, making deployment with minimal power provision (e.g., 3xAA battery packs) feasible.  A GitHub repository making all hardware and software design files open-source will be made public shortly.  [Contact us](/contact/) if you want to test a prototype.
