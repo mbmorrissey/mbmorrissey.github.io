@@ -36,7 +36,7 @@ If I have a coherent research theme, it is theory and methods methods for quanti
 
 Products like [Arduino](https://www.arduino.cc/) and [Raspberry Pi](https://www.raspberrypi.org/) make all sorts of electronics easy to use.  They allow us to relatively easily hook up all kinds of high quality sensors (commercially available from, for e.g., [here](https://www.adafruit.com/), [here](https://www.dfrobot.com/) and [here](https://www.sparkfun.com/)), and write data to an SD card.  However, there are major challenges to moving custom logger prototypes from the bench (and near-by mains power) to the useful logger deployments in the field.
 
-We are developing an arduino-compatible to help field scientists fully realise this recent democratisation of electronics.  In particular, we
+We are developing an arduino-compatible microcontroller board to help field scientists fully realise this recent democratisation of electronics in field data logging applications.  In particular, we:
 - optimise for very low sleeping power consumption
 - include high quality temperature-compensated real time clocks for time-stamping data
 - include a SD card holder and associated circuitry to minimise its power use
