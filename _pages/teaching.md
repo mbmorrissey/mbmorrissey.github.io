@@ -26,13 +26,13 @@ author_profile: true
 ## Books
 
 ### Using R
-<img src="/images/Using_R_cover_small_file.jpg" align="left" width="200px"/>
+<img src="/images/Using_R_cover_small_file.jpg" align="left" width="170px"/>
 Most modern statistics books for biologists aim to teach students to use R and become competent at data analysis in 180 or so pages.  In my experience, this leaves students able to run through examples, but puts them in a very frustrating situation when they try to move on to their own analyses.  Basically, it is very hard to simultaneously propel students along both their R learning curves and their statistical modelling learning curves (there are not the same thing!!).  This book supports instructors and students who would like to invest some time getting to know R first, focusing on mathematical operations, data handling and plotting.  Once we get a little way along our R learning curve, it can become a tool for learning about statistics.
 <p></p>
 
 ### Elementary Statistical Modelling
 
-<img src="/images/ESM_cover_small_file.jpg" align="left" width="200px"/>
+<img src="/images/ESM_cover_small_file.jpg" align="left" width="170px"/>
 How to map biological questions onto linear modeling formulations.  Assuming a bit of comfort in R, we take questions of relationships between two variables, differences in means among groups, effects of multiple variables, and interactions among variables one chapter at a time.  For its 180 or so pages, it doesn't go as far as most biostats books, but hopefully it sets students up to handle the basics well.  Particular attention is paid to avoiding common interpretive pitfalls and dispelling myths.  Everything is put in a unified linear modelling framework, with a chapter toward the end to ensure that students are literate in how their skills at developing linear models relates to classical tests (t-test, ANOVA, ANCOVA...).
 
 
