@@ -17,7 +17,7 @@ Soay sheep are a stone age lineage of sheep that have lived unmanaged on the isl
 
 
 <img align="left" width="260" height="170" src="/files/ela_clips.gif">
-[IISD Experimental Lakes Area](https://www.iisd.org/ela/)
+The [IISD Experimental Lakes Area](https://www.iisd.org/ela/) is a wonderful outdoor laboratory for whole-lake experiments.  With [Dak de Kerckhove](https://eeb.utoronto.ca/profile/de-kerckhove-dak/) and others from the [Ontario Ministry of Natural Resources and Forestry](https://www.ontario.ca/page/aquatic-research) we are conducting long-term experiments on the evolutionary consequences of selective harvest.
 
 ## Measurement of natural selection
 
