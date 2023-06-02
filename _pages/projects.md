@@ -25,7 +25,7 @@ With [Marco Festa-Bianchet](https://qcbs.ca/member?profile=32) and others in Que
 
 <img align="right" width="260" height="170" src="/files/example_theory_papers.gif">
 
-If I have a coherent research theme, it is theory and methods methods for quantifying natural selection.  Here are a few key outputs from this area (see also [publications](/publications/)):
+If I have a coherent research theme, it is theory and methods for quantifying natural selection.  Here are a few key outputs from this area (see also [publications](/publications/)):
 - how to calculate [selection gradients from arbitrary functions](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.12077)
 - how to conceptualise selection when traits affect one another: [linear case](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.12385), [more general treatment](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.12728)
 - special considerations in meta-analysis for inferring things like [variability in selection](https://academic.oup.com/evolut/article/66/2/435/6851568) and and the [prevelance of sexually-antagonistic selection](https://onlinelibrary.wiley.com/doi/10.1111/jeb.12950)
