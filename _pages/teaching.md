@@ -22,7 +22,7 @@ Here are the main modules to which I contribute, and a summary of the materials 
 
 ## Ecology
 
-- New module for 2023/24 in Quantitative Ecology (Module Organiser): students tackle a range of topics in ecology through quantitative 'work packages' engaging deeply with classical theory and empiricla analyses of contemporary data.
+- New module for 2023/24 in Quantitative Ecology (Module Organiser): students tackle a range of topics in ecology through quantitative 'work packages' engaging deeply with classical theory and empirical analyses of contemporary data.
 - BL5103: structured population models
 
 ## External teaching
@@ -34,7 +34,7 @@ Here are the main modules to which I contribute, and a summary of the materials 
 
 ### Using R
 <img src="/images/Using_R_cover_small_file.jpg" align="left" width="170px"/>
-Most modern statistics books for biologists aim to teach students to use R and become competent at data analysis in 180 or so pages.  In my experience, this leaves students able to run through examples, but puts them in a very frustrating situation when they try to move on to their own analyses.  Basically, it is very hard to simultaneously propel students along both their R learning curves and their statistical modelling learning curves (there are not the same thing!!).  This book supports instructors and students who would like to invest some time getting to know R first, focusing on mathematical operations, data handling and plotting.  Once we get a little way along our R learning curve, it can become a tool for learning about statistics.
+Most modern statistics books for biologists aim to teach students to use R and become competent at data analysis in 180 or so pages.  In my experience, this leaves students able to run through examples, but puts them in a very frustrating situation when they try to move on to their own analyses.  Basically, it is very hard to simultaneously propel students along both their R learning curves and their statistical modelling learning curves (they are not the same thing!!).  This book supports instructors and students who would like to invest some time getting to know R first, focusing on mathematical operations, data handling and plotting.  Once we get a little way along our R learning curve, it can become a tool for learning about statistics.
 <p></p>
 
 ### Elementary Statistical Modelling
