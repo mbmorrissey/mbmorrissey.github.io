@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Maria Joao Janeiro
+## Maria João Janeiro
 
 ## Rebecca Nagel
 <img src="/images/rebecca.JPG" align="left" width="170px"/>
