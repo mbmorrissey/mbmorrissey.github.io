@@ -9,6 +9,7 @@ author_profile: true
 ## Maria Joao Janeiro
 
 ## Rebecca Nagel
+<img src="/images/rebecca.JPG" align="left" width="170px"/>
 
 ## Vivienne Litzke
 
