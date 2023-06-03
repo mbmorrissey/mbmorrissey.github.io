@@ -23,7 +23,7 @@ Rebecca's publications on [google scholar](https://scholar.google.com/citations?
 
 Vivienne's PhD work so far around the consequences of space use, and how vegetation in the home range may mediate trade-offs between mothers and offspring.  Vivienne is also piloting accelerometry data logging in the Soay sheep.
 
-Personal site [here](https://vlitzke.github.io/)
+Personal site [here](https://vlitzke.github.io/).
 
 ## Finn Cowell
 
