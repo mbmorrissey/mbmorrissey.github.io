@@ -17,7 +17,7 @@ Here are the main modules to which I contribute, and a summary of the materials 
 ## Evolution
 
 - BL3307: genetic basis of variation and evolution of continuous traits
-- BL4288 "Major Review Paper in Evoltuionary Biology" (Module Organiser): Basically a big exercise in writing feedback.  With support from class sessions and 1:1 meetings with staff, students prepare a review article including submission of an initial draft, responding to peer reviews, and re-submitting a final submission.  We've had our first student article [published](https://onlinelibrary.wiley.com/doi/full/10.1111/jeb.14112) - Congratulations Finn!
+- BL4288 "Major Review Paper in Evolutionary Biology" (Module Organiser): Basically a big exercise in writing feedback.  With support from class sessions and 1:1 meetings with staff, students prepare a review article including submission of an initial draft, responding to peer reviews, and re-submitting a final submission.  We've had our first student article [published](https://onlinelibrary.wiley.com/doi/full/10.1111/jeb.14112) - Congratulations Finn!
 
 
 ## Ecology
