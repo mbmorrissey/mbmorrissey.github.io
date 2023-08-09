@@ -59,16 +59,10 @@ M.B Morrissey. 2016. Meta-analysis of magnitudes, differences and variation in e
 
 ## Full publication list
 
-3. MB Morrissey, CD Suski, KR Esseltine, BL Tufts. 2005. Incidence and physiological consequences of decompression in smallmouth bass after live-release angling tournaments. Transactions of the American Fisheries Society 134: 1038-1047.
+0. MB Morrissey, CD Suski, KR Esseltine, BL Tufts. 2005. Incidence and physiological consequences of decompression in smallmouth bass after live-release angling tournaments. Transactions of the American Fisheries Society 134: 1038-1047.
 
-2. SS Killen, CD Suski, MB Morrissey, P Dyment, M Furimsky, BL Tufts. 2005. Physiological responses of walleyes to live-release angling tournaments. North American Journal of Fisheries Management 23: 1238-1246.
+0. SS Killen, CD Suski, MB Morrissey, P Dyment, M Furimsky, BL Tufts. 2005. Physiological responses of walleyes to live-release angling tournaments. North American Journal of Fisheries Management 23: 1238-1246.
 
-1. CD Suski, SS Killen, MB Morrissey, SG Lund, BL Tufts. 2003. Physiological changes in largemouth bass caused by live-release angling tournaments in southeastern Ontario. North American Journal of Fisheries Management 23: 760-769.
+0. CD Suski, SS Killen, MB Morrissey, SG Lund, BL Tufts. 2003. Physiological changes in largemouth bass caused by live-release angling tournaments in southeastern Ontario. North American Journal of Fisheries Management 23: 760-769.
 
-
-## test
-
-0. first item
-0. second item
-0. another item
 {: reversed="reversed"}
