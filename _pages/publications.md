@@ -55,13 +55,13 @@ M.B Morrissey. 2016. Meta-analysis of magnitudes, differences and variation in e
 
 ## Selected works in preparation or in review
 
-74. MB Morrissey, HC Giacomini and DT de Kerckhove. *in revision for resubmition to Evolution*.  Selection intensities resulting from exploitation.
+74\. MB Morrissey, HC Giacomini and DT de Kerckhove. *in revision for resubmition to Evolution*.  Selection intensities resulting from exploitation.
 - Size selective exploitation, for example due to slot limits in fisheries, are likely to cause natural selection.  This article derives theory to calculate how strong any such selection will be, and gives examples in bighorn sheep from Alberta and walleye from Ontario.
 
-73. MB Morrissey and JM Henshaw. *in revision for resubmition to Evolution*. Phenotypic selection analysis and confounding environmental variables.  [preprint](https://www.biorxiv.org/content/10.1101/2022.06.15.496257v1). 
+73\. MB Morrissey and JM Henshaw. *in revision for resubmition to Evolution*. Phenotypic selection analysis and confounding environmental variables.  [preprint](https://www.biorxiv.org/content/10.1101/2022.06.15.496257v1). 
 - A long-standing issue is that environmental associations between traits and fitness can be mis-interpreted as natural selection.  This article clears up misconceptions on the topic, paving the way for potentially more straightforward and widely applicable solutions.
 
-72. EA Mittelland MB Morrissey. *in revision for resubmition to Evolution*. The missing fraction problem as an episodes of selection problem. [preprint](https://www.biorxiv.org/content/10.1101/2022.06.15.496257v1). 
+72\. EA Mittelland MB Morrissey. *in revision for resubmition to Evolution*. The missing fraction problem as an episodes of selection problem. [preprint](https://www.biorxiv.org/content/10.1101/2022.06.15.496257v1). 
 - Viability selection prior to trait expresseion can cause erroneous inverences of lifetime selection on a trait of of expected evolutionary trajectories.  This article seeks to simplify the problem and outlines a range of so-far underexploited solutions.
 
 
