@@ -59,6 +59,22 @@ test
 
 ## Full publication list
 
+
+
+
+
+
+0. AJ Wilson, MB Morrissey, MJ Adams, CA Walling, FE Guinness, .... 2011. Indirect genetics effects and evolutionary constraint: an analysis of social dominance in red deer, Cervus elaphus. Journal of Evolutionary Biology 24: 772-783.
+0. KH Kapralova, MB Morrissey, BK Kristjánsson, GÁ Ólafsdóttir, ... 2011. Evolution of adaptive diversity and genetic connectivity in Arctic charr (Salvelinus alpinus) in Iceland. Heredity 106: 472-487.
+0. MB Morrissey, MM Ferguson. 2011. Individual variation in movement throughout the life cycle of a stream‐dwelling salmonid fish. Molecular Ecology 20: 235-248.
+0. MB Morrissey, LEB Kruuk, AJ Wilson. 2011. The danger of applying the breeder's equation in observational studies of natural populations. Journal of Evolutionary Biology 23: 2277-2288.
+0. MB Morrissey, AJ Wilson. 2010. pedantics: an r package for pedigree‐based genetic simulation and pedigree manipulation, characterization and viewing. Molecular Ecology Resources 10: 711-719.
+0. DJ Páez, MB Morrissey, L Bernatchez, JJ Dodson. 2010. The genetic basis of early‐life morphological traits and their relation to alternative male reproductive tactics in Atlantic salmon. Journal of Evolutionary Biology 23: 757-768.
+0. AJ Wilson, D Reale, MN Clements, MB Morrissey, E Postma, CA Walling, ... . 2010. An ecologist’s guide to the animal model. Journal of Animal Ecology 79: 13-26.
+0. MB Morrissey, DT de Kerckhove. 2010. The maintenance of genetic variation due to asymmetric gene flow in dendritic metapopulations. The American Naturalist 174: 875-889.
+0. MB Morrissey, MM Ferguson. 2009. Marker‐assisted determination of the relationship between body size and reproductive success and consequences for evaluation of adaptive life histories. Molecular Ecology 18: 4330-4340.
+0. MB Morrissey, AJ Wilson, JM Pemberton, MM Ferguson. 2009. A framework for power and sensitivity analyses for quantitative genetic studies of natural populations, and case studies in Soay sheep (Ovis aries). Journal of Evolutionary Biology 20: 2309-2321.
+0. MB Morrissey, AJ Wilson. 2006. The potential costs of accounting for genotypic errors in molecular parentage analyses. Molecular Ecology 14: 4111-4121.
 0. MB Morrissey, CD Suski, KR Esseltine, BL Tufts. 2005. Incidence and physiological consequences of decompression in smallmouth bass after live-release angling tournaments. Transactions of the American Fisheries Society 134: 1038-1047.
 0. SS Killen, CD Suski, MB Morrissey, P Dyment, M Furimsky, BL Tufts. 2005. Physiological responses of walleyes to live-release angling tournaments. North American Journal of Fisheries Management 23: 1238-1246.
 0. CD Suski, SS Killen, MB Morrissey, SG Lund, BL Tufts. 2003. Physiological changes in largemouth bass caused by live-release angling tournaments in southeastern Ontario. North American Journal of Fisheries Management 23: 760-769
