@@ -53,14 +53,20 @@ M.B Morrissey. 2016. Meta-analysis of magnitudes, differences and variation in e
 - often, we are not interested in the exact quantities that people report in their papers, but our meta-analyses may focus on derived quantities, such as magnitudes (absolute values of what people report).  This situation requires some special considerations beyond those of standard meta-analysis.
 
 
-## Selected works in review
+## Selected works in preparation or in review
 
-test
+MB Morrissey, HC Giacomini and DT de Kerckhove. *in revision for resubmition to Evolution*.  Selection intensities resulting from exploitation.
+- Size selective exploitation, for example due to slot limits in fisheries, are likely to cause natural selection.  This article derives theory to calculate how strong any such selection will be, and gives examples in bighorn sheep from Alberta and walleye from Ontario.
+
+MB Morrissey and JM Henshaw. *in revision for resubmition to Evolution*. Phenotypic selection analysis and confounding environmental variables.  [preprint](https://www.biorxiv.org/content/10.1101/2022.06.15.496257v1). 
+- A long-standing issue is that environmental associations between traits and fitness can be mis-interpreted as natural selection.  This article clears up misconceptions on the topic, paving the way for potentially more straightforward and widely applicable solutions.
+
+EA Mittelland MB Morrissey. *in revision for resubmition to Evolution*. The missing fraction problem as an episodes of selection problem. [preprint](https://www.biorxiv.org/content/10.1101/2022.06.15.496257v1). 
+- Viability selection prior to trait expresseion can cause erroneous inverences of lifetime selection on a trait of of expected evolutionary trajectories.  This article seeks to simplify the problem and outlines a range of so-far underexploited solutions.
+
+
 
 ## Full publication list
-
-
-
 
 0. MB Morrissey, IBJ Goudie. 2022. Analytical results for directional and quadratic selection gradients for log‐linear models of fitness functions. Evolution 76: 1378-1390.
 0. SF Walmsley, MB Morrissey. 2022. Causation, not collinearity: Identifying sources of bias when modelling the evolution of brain size and other allometric traits. Evolution letters 6: 234-244.
