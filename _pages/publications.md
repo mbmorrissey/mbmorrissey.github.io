@@ -5,9 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-See [google scholar](https://scholar.google.co.uk/citations?user=AKCYteAAAAAJ&hl=en) for my full pulications list.
+See [google scholar](https://scholar.google.co.uk/citations?user=AKCYteAAAAAJ&hl=en) for my full pulications list with citation counts.
 
-Here I list a few of my favourites.
+
+Key publications, see below for full list.
 
 <!---
 {% if author.googlescholar %}
@@ -51,3 +52,15 @@ M.B. Morrissey and J.D. Hadfield. 2012. Directional selection in temporally repl
 M.B Morrissey. 2016. Meta-analysis of magnitudes, differences and variation in evolutionary parameters [Journal of Evolutionary Biology 29: 1882-1904.](https://onlinelibrary.wiley.com/doi/10.1111/jeb.12950)
 - often, we are not interested in the exact quantities that people report in their papers, but our meta-analyses may focus on derived quantities, such as magnitudes (absolute values of what people report).  This situation requires some special considerations beyond those of standard meta-analysis.
 
+
+## Selected works in review
+
+
+
+## Full publication list
+
+3. MB Morrissey, CD Suski, KR Esseltine, BL Tufts. 2005. Incidence and physiological consequences of decompression in smallmouth bass after live-release angling tournaments. Transactions of the American Fisheries Society 134: 1038-1047.
+
+2. SS Killen, CD Suski, MB Morrissey, P Dyment, M Furimsky, BL Tufts. 2005. Physiological responses of walleyes to live-release angling tournaments. North American Journal of Fisheries Management 23: 1238-1246.
+
+1. CD Suski, SS Killen, MB Morrissey, SG Lund, BL Tufts. 2003. Physiological changes in largemouth bass caused by live-release angling tournaments in southeastern Ontario. North American Journal of Fisheries Management 23: 760-769.
