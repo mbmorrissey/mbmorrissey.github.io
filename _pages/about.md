@@ -14,6 +14,6 @@ My research group is based at the University of St Andrews where my day job is s
 
 I teach various parts of our curriculum in general quantiative skills, statistical modelling, evolution and ecology, from first year through to MSc and PhD levels.  Parts of the quantiative skills teaching here are supported by my [books](/teaching) on learning to use R, and elementary linear modelling.
 
-I am Director of the [Centre for Biological Diversity](https://biology.st-andrews.ac.uk/biodiversity/) in the [School of Biology](https://www.st-andrews.ac.uk/biology/) and the Director of Postgraduate (Research) Recruitment (it's not glamorous, almost everyone is director of something around here).
+I am Director of the [Centre for Biological Diversity](https://biology.st-andrews.ac.uk/biodiversity/) in the [School of Biology](https://www.st-andrews.ac.uk/biology/) CBD matters may be directed [here](mailto:cbd.director@st-andrews.ac.uk) or via my regular (contact)[https://mbmorrissey.github.io/contact/].
 
 Prospective students and other researchers are welcome to [contact me](https://mbmorrissey.github.io/contact/) to discuss projects.
