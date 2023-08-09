@@ -33,6 +33,16 @@ M.B. Morrissey and I.B.J. Goudie. 2022. Analytical results for directional and q
 
 - it turns out that it is possible to derive selection gradients from the parameters of models with a log-linear form.  This is quite handy becuase it links the estimation of selection graidents in the formal evolutionary quantitative genetic sense to a range of statistical modelling approaches that may be very well suited for fitness data
 
+## Evolutionary consequences of size-based management
+
+M.B. Morrissey, A. Hubbs and M. Festa-Bianchet. 2021. Horn growth appears to decline under intense trophy hunting, but biases in hunt data complicate interpretation of the evolutionary basis of trends. [Evolutionary Applications. 14: 1519-1527.](https://onlinelibrary.wiley.com/doi/full/10.1111/eva.13207)
+
+- contrary to previous claims, declines in the size of bighorn sheep horns are widespread in areas where hunting regulations cause the greatest selective advantage of being small-horned
+
+M.B. Morrissey, H.C. Giacomini and D.T. de Kerckhove. *in revision for resubmition to Evolution*.  Selection intensities resulting from exploitation. [contact me](https://mbmorrissey.github.io/contact/) for the draft manuscript.
+
+- What are the mathematics that link size-based management decisions to resulting selection?  Hey are now known, with examples in bighorn sheep from Ontario, and walleye from Ontario.
+
 ## Statistical genetics of developmentally-entangled traits
 
 M.B. Morrissey. 2014. Selection and evolution of causally covarying traits. [Evolution 68: 1748-1761.](https://www.jstor.org/stable/24033735)
@@ -72,7 +82,7 @@ M.B Morrissey. 2016. Meta-analysis of magnitudes, differences and variation in e
 0. SF Walmsley, MB Morrissey. 2022. Causation, not collinearity: Identifying sources of bias when modelling the evolution of brain size and other allometric traits. Evolution letters 6: 234-244.
 0. T Bonnet, MB Morrissey, ... LEB Kruuk. 2022. Genetic variance in fitness indicates rapid contemporary adaptive evolution in wild animals. Science 376 (6596), 1012-1016.
 0. CF Purchase, AC Rooke, MJ Gaudry, JR Treberg, EA Mittell, MB Morrissey and MD Rennie. 2022. A synthesis of senescence predictions for indeterminate growth, and support from multiple tests in wild lake trout. Proceedings of the Royal Society B 289: 20212146.
-0. MJCrawley, RJ Pakeman, SD Albon, JG Pilkington, IR Stevenson, MB Morrissey, OR Jones, EAllan, AI Bento, HHipperson, G Asefa, JM Pemberton. 2021. The dynamics of vegetation grazed by a food‐limited population of Soay sheep on St Kilda. Journal of Ecology 109: 3988-4006
+0. MJ Crawley, RJ Pakeman, SD Albon, JG Pilkington, IR Stevenson, MB Morrissey, OR Jones, EAllan, AI Bento, HHipperson, G Asefa, JM Pemberton. 2021. The dynamics of vegetation grazed by a food‐limited population of Soay sheep on St Kilda. Journal of Ecology 109: 3988-4006
 0. QJB Horta-Lacueva, SS Snorrason, MB Morrissey, CAL Leblanc and KH Kapralova. 2021. Multivariate analysis of morphology, behaviour, growth and developmental timing in hybrids brings new insights into the divergence of sympatric Arctic charr morphs. BMC Ecology and Evolution 21: 1-15.
 0. IT Dȩbicki, EA Mittell, BK Kristjánsson, CA Leblanc, MB Morrissey and K Terzić. 2021. Re-identification of individuals from images using spot constellations: a case study in Arctic charr (*Salvelinus alpinus*). Royal Society Open Science 8: 201768.
 0. QJB Horta-Lacueva, D Benhaïm, MB Morrissey, SS Snorrason and KH Kapralova. 2021. Animal personality adds complexity to the processes of divergence between sympatric morphs of Arctic charr. Animal Behaviour 175, 57-73.
