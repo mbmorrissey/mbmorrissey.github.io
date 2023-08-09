@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-See [google scholar](https://scholar.google.co.uk/citations?user=AKCYteAAAAAJ&hl=en) for my full pulications list with citation counts.
+See [google scholar](https://scholar.google.co.uk/citations?user=AKCYteAAAAAJ&hl=en) for my full pulication list with citation counts.
 
 
-Key publications, see below for full list.
+Key areas of past/present research with highlights are first; please see below for the full list
 
 <!---
 {% if author.googlescholar %}
@@ -71,8 +71,8 @@ M.B Morrissey. 2016. Meta-analysis of magnitudes, differences and variation in e
 73\. MB Morrissey and JM Henshaw. *in revision for resubmition to Evolution*. Phenotypic selection analysis and confounding environmental variables.  [preprint](https://www.biorxiv.org/content/10.1101/2022.06.15.496257v1). 
 - A long-standing issue is that environmental associations between traits and fitness can be mis-interpreted as natural selection.  This article clears up misconceptions on the topic, paving the way for potentially more straightforward and widely applicable solutions.
 
-72\. EA Mittelland MB Morrissey. *in revision for resubmition to Evolution*. The missing fraction problem as an episodes of selection problem. [preprint](https://www.biorxiv.org/content/10.1101/2022.06.15.496257v1). 
-- Viability selection prior to trait expresseion can cause erroneous inverences of lifetime selection on a trait of of expected evolutionary trajectories.  This article seeks to simplify the problem and outlines a range of so-far underexploited solutions.
+72\. EA Mittell and MB Morrissey. *in revision for resubmition to Evolution*. The missing fraction problem as an episodes of selection problem. [preprint](https://www.biorxiv.org/content/10.1101/2022.06.15.496257v1). 
+- Viability selection prior to trait expression can cause erroneous inferences of lifetime selection on a trait and consequently wrong predictions of evolutionary change.  This article seeks to simplify the problem and outlines a range of so-far underexploited solutions.
 
 
 
