@@ -63,7 +63,7 @@ M.B Morrissey. 2016. Meta-analysis of magnitudes, differences and variation in e
 - often, we are not interested in the exact quantities that people report in their papers, but our meta-analyses may focus on derived quantities, such as magnitudes (absolute values of what people report).  This situation requires some special considerations beyond those of standard meta-analysis.
 
 
-## Selected works in preparation or in review
+## Selected works in review or revision
 
 75\. MB Morrissey, HC Giacomini and DT de Kerckhove. *in revision for resubmition to Evolution*.  Selection intensities resulting from exploitation.
 - Size selective exploitation, for example due to slot limits in fisheries, are likely to cause natural selection.  This article derives theory to calculate how strong any such selection will be, and gives examples in bighorn sheep from Alberta and walleye from Ontario.
