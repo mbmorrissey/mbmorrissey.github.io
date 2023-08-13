@@ -65,8 +65,11 @@ M.B Morrissey. 2016. Meta-analysis of magnitudes, differences and variation in e
 
 ## Selected works in preparation or in review
 
-74\. MB Morrissey, HC Giacomini and DT de Kerckhove. *in revision for resubmition to Evolution*.  Selection intensities resulting from exploitation.
+75\. MB Morrissey, HC Giacomini and DT de Kerckhove. *in revision for resubmition to Evolution*.  Selection intensities resulting from exploitation.
 - Size selective exploitation, for example due to slot limits in fisheries, are likely to cause natural selection.  This article derives theory to calculate how strong any such selection will be, and gives examples in bighorn sheep from Alberta and walleye from Ontario.
+
+74\. R Nagel, GD Ruxton and MB Morrissey. *in review at Methods in Ecology and Evolution*. Classical tests, linear models, and their extensions for the analysis of 2x2 contingency tables
+- A lot of textbook advice can be greatly simplified!
 
 73\. MB Morrissey and JM Henshaw. *in revision for resubmition to Evolution*. Phenotypic selection analysis and confounding environmental variables.  [preprint](https://www.biorxiv.org/content/10.1101/2022.06.15.496257v1). 
 - A long-standing issue is that environmental associations between traits and fitness can be mis-interpreted as natural selection.  This article clears up misconceptions on the topic, paving the way for potentially more straightforward and widely applicable solutions.
