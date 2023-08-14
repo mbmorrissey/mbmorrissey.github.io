@@ -27,7 +27,7 @@ Key areas of past/present research with highlights are first; please see below f
 
 M.B. Morrissey and J.M. Henshaw. [preprint](https://www.biorxiv.org/content/10.1101/2022.06.15.496257v1). Phenotypic selection analysis and confounding environmental variables.
 
-- environmentally-induced trait fitness covariance creates patterns that are widely interpreted as natural selection, but do not contribute in any way to evolution of heritabile traits.  To date, authors treating the subject (including yours truely) have tended to suggest recourse to very challenging quantiative genetic approaches to get around the problem.  But what if we did what any other biologists would do in a situation involving a confounding variable: measure the confounder and account for it in our statistical models? (!)  It turns out that this approach -- including environmntal variables as well as traits in otheriwse very standard regression analyses of natural selection -- is perfectly valid.   We (me and [Jono Henshaw](https://www.henshaw-lab.com/)) elaborate on this idea.  Currently in review at Evolution.
+- environmentally-induced trait fitness covariance creates patterns that are widely interpreted as natural selection, but do not contribute in any way to evolution of heritable traits.  To date, authors treating the subject (including yours truly) have tended to suggest recourse to very challenging quantitative genetic approaches to get around the problem.  But what if we did what any other biologists would do in a situation involving a confounding variable: measure the confounder and account for it in our statistical models? (!)  It turns out that this approach -- including environmental variables as well as traits in otherwise very standard regression analyses of natural selection -- is perfectly valid.   We (me and [Jono Henshaw](https://www.henshaw-lab.com/)) elaborate on this idea.  Currently in review at Evolution.
 
 M.B. Morrissey and I.B.J. Goudie. 2022. Analytical results for directional and quadratic selection gradients for log-linear models of fitness functions. [Evolution 76: 1378-1390.](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.14486)
 
@@ -39,7 +39,7 @@ M.B. Morrissey, A. Hubbs and M. Festa-Bianchet. 2021. Horn growth appears to dec
 
 - contrary to previous claims, declines in the size of bighorn sheep horns are widespread in areas where hunting regulations cause the greatest selective advantage of being small-horned
 
-M.B. Morrissey, H.C. Giacomini and D.T. de Kerckhove. *in revision for resubmition to Evolution*.  Selection intensities resulting from exploitation. [contact me](https://mbmorrissey.github.io/contact/) for the draft manuscript.
+M.B. Morrissey, H.C. Giacomini and D.T. de Kerckhove. *in revision for resubmission to Evolution*.  Selection intensities resulting from exploitation. [contact me](https://mbmorrissey.github.io/contact/) for the draft manuscript.
 
 - What are the mathematics that link size-based management decisions to resulting selection?  Hey are now known, with examples in bighorn sheep from Ontario, and walleye from Ontario.
 
