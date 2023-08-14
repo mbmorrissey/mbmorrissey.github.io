@@ -8,7 +8,7 @@ author_profile: true
 
 ## Maria João Janeiro
 
-João was the group's first PhD student, and has worked in academia and industry before circling back to St Andrews.  Key interests are understanding the selection and genetics of how traits vary across ontogeny.
+João was the group's first PhD student, and has worked in academia and industry before circling back to St Andrews.  Key interests are understanding the selection and genetics traits that vary across ontogeny.
 
 ## Rebecca Nagel
 <img src="/images/rebecca.JPG" align="left" width="170px"/>
