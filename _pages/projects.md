@@ -42,3 +42,7 @@ We are developing an arduino-compatible microcontroller board to help field scie
 - include a SD card holder and associated circuitry to minimise its power use
 
 The resulting boards are arduino-like in that they can be programmed using the same development environment, can handle digital and analog inputs, and communicate with peripherals (e.g., sensors) using the same set of serial protocols as can the classic Arduino.  However, depending on sensors used and duty cycle, the boards can last hundreds to thousands of times longer, making deployment with minimal power provision (e.g., 3xAA battery packs) feasible.  See the [GitHub repository here](https://github.com/mbmorrissey/cadalogger) for all open source design files and software library, plus developing documentation and examples.  [Contact us](/contact/) if you want to test a prototype.
+
+Here is an intro to what we are tryign to do (many improvements, including to video documentation, coming soon, funding allowing):
+
+[![A quick intro to cadalogger](https://img.youtube.com/vi/7qkBjCcAluY/0.jpg)](https://youtu.be/G2LDQLVE-7E)
